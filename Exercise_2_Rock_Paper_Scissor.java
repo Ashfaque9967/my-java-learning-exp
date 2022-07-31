@@ -9,6 +9,7 @@
 //
 ////        Enter 2 for Scissor
 ////        Ignore this line
+//          i am float
 //
 //
 //        Scanner sc = new Scanner(System.in);
