@@ -9,7 +9,6 @@
 //
 ////        Enter 2 for Scissor
 ////        Ignore this line
-//          i m boolean
 //
 //
 //        Scanner sc = new Scanner(System.in);
