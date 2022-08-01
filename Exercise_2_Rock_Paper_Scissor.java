@@ -10,7 +10,6 @@
 ////        Enter 2 for Scissor
 ////        Ignore this line
 //
-//
 //        Scanner sc = new Scanner(System.in);
 //        System.out.println("Enter 0 for Rock ; Enter 1 for Paper ; Enter 2 for Scissor");
 //        System.out.print("Enter your number here : ");
