@@ -1,3 +1,5 @@
+// This is a sample to check comparasion in github
+
 //
 //import java.util.Random;
 //import java.util.Scanner;
