@@ -9,8 +9,6 @@
 //
 ////        Enter 2 for Scissor
 ////        Ignore this line
-//          i am float
-//
 //
 //        Scanner sc = new Scanner(System.in);
 //        System.out.println("Enter 0 for Rock ; Enter 1 for Paper ; Enter 2 for Scissor");
