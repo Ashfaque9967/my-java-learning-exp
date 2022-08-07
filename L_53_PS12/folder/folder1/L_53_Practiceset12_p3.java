@@ -1,4 +1,4 @@
-package PS12.folder.folder1; // Problem 3: 
+package L_53_PS12.folder.folder1; // Problem 3:
 
 public class L_53_Practiceset12_p3 {
     public static void main(String[] args) {

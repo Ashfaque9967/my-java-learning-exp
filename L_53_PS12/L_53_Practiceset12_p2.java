@@ -1,4 +1,4 @@
-package PS12; //Praoblem 2: 
+package L_53_PS12; //Praoblem 2:
 import java.util.Scanner;
 public class L_53_Practiceset12_p2 {
     public static void main(String[] args) {
