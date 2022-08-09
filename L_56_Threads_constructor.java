@@ -28,7 +28,7 @@
 //        System.out.println("I am implemented + extended");
 //    }
 //}
-//public class L_55_Threads_constructor {
+//public class L_56_Threads_constructor {
 //    public static void main(String[] args) {
 //
 ////      1: Thread();
