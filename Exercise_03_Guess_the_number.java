@@ -40,7 +40,7 @@
 //    }
 //}
 //
-//public class L_45_GuessTheNumber {
+//public class Exercise_03_Guess_the_number {
 //    public static void main(String[] args) {
 //        /*
 //
