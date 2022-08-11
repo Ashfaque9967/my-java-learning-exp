@@ -6,6 +6,7 @@ public class L_53_Practiceset12_p2 {
         System.out.print("Enter your input: ");
         Scanner sc = new Scanner(System.in);
         S = sc.nextLine();
+        sc.close();
         System.out.println("The input of user: " + S);
     }
 }
