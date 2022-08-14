@@ -27,7 +27,7 @@
 //    boolean IsCorrectNumber(){
 //        NoOfGuesses++;
 //        if (InputNumber == number){
-//            System.out.format("Yeah! you guessed it right,It was %d\nYou guessed it in %d attempts\n",number,NoOfGuesses);
+//            System.out.format("Yeah! you guessed it right,\nIt was %d.\nYou guessed it in %d attempts.\n",number,NoOfGuesses);
 //            return true;
 //        }
 //        else if (InputNumber<number){
@@ -54,6 +54,7 @@
 //
 //         */
 //        game g = new game();
+//        System.out.print("Can you guess the correct number between 1 to 100\nIf Yes then,\n");
 //        boolean b = false;
 //        while(!b) {
 //            g.TakeUserInput();
