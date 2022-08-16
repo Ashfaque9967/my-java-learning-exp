@@ -9,6 +9,9 @@
 //        mrks[2] = 47;
 //
 //        Scanner sc = new Scanner(System.in);
+
+////      Quick quiz:
+
 //        boolean flag = true;
 //        while(flag) {
 //            System.out.println("Enter your index value: ");
