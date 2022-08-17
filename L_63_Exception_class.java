@@ -7,7 +7,7 @@
 //        return "I am getmessage's method";
 //    }
 //}
-//public class L_63_Exceotion_class {
+//public class L_63_Exception_class {
 //    public static void main(String[] args) {
 //        int a;
 //        Scanner sc = new Scanner(System.in);
