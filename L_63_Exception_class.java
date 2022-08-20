@@ -1,8 +1,10 @@
 //import java.util.Scanner;
 //class myexp extends Exception{
+//    @Override
 //    public String toString(){
 //        return "I am String's method";
 //    }
+//    @Override
 //    public String getMessage(){
 //        return "I am getmessage's method";
 //    }
