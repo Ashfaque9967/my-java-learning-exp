@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 //
 ////import java.util.ArrayList;
 //
@@ -31,6 +33,22 @@
 ////}
 //    public static void main(String[] args) {
 //
+//        Scanner sc = new Scanner(System.in);
+//        int num = sc.nextInt();
+//        int fact = 1;
+//        for (num = 5; num>=1; num = num - 1){
+//            fact = fact * num;
+//        }
+//        System.out.println(fact);
+
+//        int a = 2;
+//        int pwr = 5;
+//        int ans=a;
+//        for (int i = 1; i<=pwr;i++)
+//        {
+//            ans*=a;
+//        }
+//        System.out.println(ans);
 //
 ////        ps6 of cwh java test
 ////        avg(25,55,17,87,100);

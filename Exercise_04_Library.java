@@ -12,12 +12,14 @@
 //        System.out.println(books + " has been added");
 //    }
 //    void showavailablebooks(){
+//        int a = 1;
 //        System.out.println("Available books are: ");
 //        for (String book:this.books) {
 //            if (book == null){
 //                continue;
 //            }
-//            System.out.println("* " + book);
+//            System.out.format("%d. %s\n", a, book);
+//            a++;
 //        }
 //    }
 //    void issuebook(String book){

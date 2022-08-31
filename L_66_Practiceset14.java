@@ -5,7 +5,7 @@
 //        return "Max tries reached!";
 //    }
 //}
-//public class L_56_Practiceset14 {
+//public class L_66_Practiceset14 {
 //    //Problem:5
 //    public static int RIndex() throws Maxtries{
 //        int[] arr = {1, 2, 3, 4, 5};
