@@ -1,6 +1,6 @@
 //import java.util.ArrayDeque;
 //
-//public class L_68_ArrayDeque {
+//public class L_69_ArrayDeque {
 //    public static void main(String[] args) {
 //        ArrayDeque<String> s1 = new ArrayDeque<>();
 //        s1.add("Ashfaque");
